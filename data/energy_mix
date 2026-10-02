@@ -1,0 +1,127 @@
+period,location,stateDescription,sectorid,sectorDescription,fueltypeid,fuelTypeDescription,generation,generation-units
+2005,US,U.S. Total,99,All Sectors,COW,all coal products,2012873.04581,thousand megawatthours
+2005,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,270321.25494,thousand megawatthours
+2005,US,U.S. Total,99,All Sectors,NG,natural gas,760960.25439,thousand megawatthours
+2005,US,U.S. Total,99,All Sectors,NUC,nuclear,781986.365,thousand megawatthours
+2005,US,U.S. Total,99,All Sectors,SUN,solar,550.29434,thousand megawatthours
+2005,US,U.S. Total,99,All Sectors,WND,wind,17810.54902,thousand megawatthours
+2006,US,U.S. Total,99,All Sectors,COW,all coal products,1990511.13453,thousand megawatthours
+2006,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,289246.41565,thousand megawatthours
+2006,US,U.S. Total,99,All Sectors,NG,natural gas,816440.7696,thousand megawatthours
+2006,US,U.S. Total,99,All Sectors,NUC,nuclear,787218.636,thousand megawatthours
+2006,US,U.S. Total,99,All Sectors,SUN,solar,507.706,thousand megawatthours
+2006,US,U.S. Total,99,All Sectors,WND,wind,26589.13699,thousand megawatthours
+2007,US,U.S. Total,99,All Sectors,COW,all coal products,2016455.58352,thousand megawatthours
+2007,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,247509.97431,thousand megawatthours
+2007,US,U.S. Total,99,All Sectors,NG,natural gas,896589.79109,thousand megawatthours
+2007,US,U.S. Total,99,All Sectors,NUC,nuclear,806424.753,thousand megawatthours
+2007,US,U.S. Total,99,All Sectors,SUN,solar,611.793,thousand megawatthours
+2007,US,U.S. Total,99,All Sectors,WND,wind,34449.9274,thousand megawatthours
+2008,US,U.S. Total,99,All Sectors,COW,all coal products,1985801.24666,thousand megawatthours
+2008,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,254831.38511,thousand megawatthours
+2008,US,U.S. Total,99,All Sectors,NG,natural gas,882980.59905,thousand megawatthours
+2008,US,U.S. Total,99,All Sectors,NUC,nuclear,806208.435,thousand megawatthours
+2008,US,U.S. Total,99,All Sectors,SUN,solar,864.31479,thousand megawatthours
+2008,US,U.S. Total,99,All Sectors,WND,wind,55363.10007,thousand megawatthours
+2009,US,U.S. Total,99,All Sectors,COW,all coal products,1755904.25296,thousand megawatthours
+2009,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,273445.09417,thousand megawatthours
+2009,US,U.S. Total,99,All Sectors,NG,natural gas,920978.68052,thousand megawatthours
+2009,US,U.S. Total,99,All Sectors,NUC,nuclear,798854.585,thousand megawatthours
+2009,US,U.S. Total,99,All Sectors,SUN,solar,891.17939,thousand megawatthours
+2009,US,U.S. Total,99,All Sectors,WND,wind,73886.13171,thousand megawatthours
+2010,US,U.S. Total,99,All Sectors,COW,all coal products,1847290.27851,thousand megawatthours
+2010,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,260203.06938,thousand megawatthours
+2010,US,U.S. Total,99,All Sectors,NG,natural gas,987697.23368,thousand megawatthours
+2010,US,U.S. Total,99,All Sectors,NUC,nuclear,806968.30056,thousand megawatthours
+2010,US,U.S. Total,99,All Sectors,SUN,solar,1212.18158,thousand megawatthours
+2010,US,U.S. Total,99,All Sectors,WND,wind,94652.24608,thousand megawatthours
+2011,US,U.S. Total,99,All Sectors,COW,all coal products,1733430.00534,thousand megawatthours
+2011,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,319354.90345,thousand megawatthours
+2011,US,U.S. Total,99,All Sectors,NG,natural gas,1013688.92924,thousand megawatthours
+2011,US,U.S. Total,99,All Sectors,NUC,nuclear,790204.367,thousand megawatthours
+2011,US,U.S. Total,99,All Sectors,SUN,solar,1817.69565,thousand megawatthours
+2011,US,U.S. Total,99,All Sectors,WND,wind,120176.59863,thousand megawatthours
+2012,US,U.S. Total,99,All Sectors,COW,all coal products,1514042.94453,thousand megawatthours
+2012,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,276240.2193,thousand megawatthours
+2012,US,U.S. Total,99,All Sectors,NG,natural gas,1225894.17537,thousand megawatthours
+2012,US,U.S. Total,99,All Sectors,NUC,nuclear,769331.249,thousand megawatthours
+2012,US,U.S. Total,99,All Sectors,SUN,solar,4326.67524,thousand megawatthours
+2012,US,U.S. Total,99,All Sectors,WND,wind,140821.71472,thousand megawatthours
+2013,US,U.S. Total,99,All Sectors,COW,all coal products,1581114.7158,thousand megawatthours
+2013,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,268565.38273,thousand megawatthours
+2013,US,U.S. Total,99,All Sectors,NG,natural gas,1124835.55984,thousand megawatthours
+2013,US,U.S. Total,99,All Sectors,NUC,nuclear,789016.473,thousand megawatthours
+2013,US,U.S. Total,99,All Sectors,SUN,solar,9035.62038,thousand megawatthours
+2013,US,U.S. Total,99,All Sectors,WND,wind,167839.74544,thousand megawatthours
+2014,US,U.S. Total,99,All Sectors,COW,all coal products,1581710.34974,thousand megawatthours
+2014,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,259366.62186,thousand megawatthours
+2014,US,U.S. Total,99,All Sectors,NG,natural gas,1126635.11633,thousand megawatthours
+2014,US,U.S. Total,99,All Sectors,NUC,nuclear,797165.982,thousand megawatthours
+2014,US,U.S. Total,99,All Sectors,SUN,solar,17691.03119,thousand megawatthours
+2014,US,U.S. Total,99,All Sectors,WND,wind,181655.2818,thousand megawatthours
+2015,US,U.S. Total,99,All Sectors,COW,all coal products,1352398.19668,thousand megawatthours
+2015,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,249080.08484,thousand megawatthours
+2015,US,U.S. Total,99,All Sectors,NG,natural gas,1334668.00285,thousand megawatthours
+2015,US,U.S. Total,99,All Sectors,NUC,nuclear,797177.877,thousand megawatthours
+2015,US,U.S. Total,99,All Sectors,SUN,solar,24892.9036,thousand megawatthours
+2015,US,U.S. Total,99,All Sectors,WND,wind,190718.54771,thousand megawatthours
+2016,US,U.S. Total,99,All Sectors,COW,all coal products,1239148.65432,thousand megawatthours
+2016,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,267812.15308,thousand megawatthours
+2016,US,U.S. Total,99,All Sectors,NG,natural gas,1379270.92193,thousand megawatthours
+2016,US,U.S. Total,99,All Sectors,NUC,nuclear,805693.948,thousand megawatthours
+2016,US,U.S. Total,99,All Sectors,SUN,solar,36054.12115,thousand megawatthours
+2016,US,U.S. Total,99,All Sectors,WND,wind,226992.56213,thousand megawatthours
+2017,US,U.S. Total,99,All Sectors,COW,all coal products,1205835.27593,thousand megawatthours
+2017,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,300332.92966,thousand megawatthours
+2017,US,U.S. Total,99,All Sectors,NG,natural gas,1297702.52811,thousand megawatthours
+2017,US,U.S. Total,99,All Sectors,NUC,nuclear,804949.635,thousand megawatthours
+2017,US,U.S. Total,99,All Sectors,SUN,solar,53286.86507,thousand megawatthours
+2017,US,U.S. Total,99,All Sectors,WND,wind,254302.69522,thousand megawatthours
+2018,US,U.S. Total,99,All Sectors,COW,all coal products,1149487.33858,thousand megawatthours
+2018,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,292523.9888,thousand megawatthours
+2018,US,U.S. Total,99,All Sectors,NG,natural gas,1471843.03124,thousand megawatthours
+2018,US,U.S. Total,99,All Sectors,NUC,nuclear,807084.477,thousand megawatthours
+2018,US,U.S. Total,99,All Sectors,SUN,solar,63825.31453,thousand megawatthours
+2018,US,U.S. Total,99,All Sectors,WND,wind,272667.45372,thousand megawatthours
+2019,US,U.S. Total,99,All Sectors,COW,all coal products,964956.8115,thousand megawatthours
+2019,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,287873.7305,thousand megawatthours
+2019,US,U.S. Total,99,All Sectors,NG,natural gas,1588532.83948,thousand megawatthours
+2019,US,U.S. Total,99,All Sectors,NUC,nuclear,809409.262,thousand megawatthours
+2019,US,U.S. Total,99,All Sectors,SUN,solar,71936.82224,thousand megawatthours
+2019,US,U.S. Total,99,All Sectors,WND,wind,295882.48349,thousand megawatthours
+2020,US,U.S. Total,99,All Sectors,COW,all coal products,773392.89709,thousand megawatthours
+2020,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,285273.89483,thousand megawatthours
+2020,US,U.S. Total,99,All Sectors,NG,natural gas,1626789.64004,thousand megawatthours
+2020,US,U.S. Total,99,All Sectors,NUC,nuclear,789878.863,thousand megawatthours
+2020,US,U.S. Total,99,All Sectors,SUN,solar,89198.71512,thousand megawatthours
+2020,US,U.S. Total,99,All Sectors,WND,wind,337938.04903,thousand megawatthours
+2021,US,U.S. Total,99,All Sectors,COW,all coal products,897998.75992,thousand megawatthours
+2021,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,251584.84235,thousand megawatthours
+2021,US,U.S. Total,99,All Sectors,NG,natural gas,1579189.98739,thousand megawatthours
+2021,US,U.S. Total,99,All Sectors,NUC,nuclear,779644.595,thousand megawatthours
+2021,US,U.S. Total,99,All Sectors,SUN,solar,115258.24834,thousand megawatthours
+2021,US,U.S. Total,99,All Sectors,WND,wind,378196.77482,thousand megawatthours
+2022,US,U.S. Total,99,All Sectors,COW,all coal products,831511.61207,thousand megawatthours
+2022,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,254788.66707,thousand megawatthours
+2022,US,U.S. Total,99,All Sectors,NG,natural gas,1687064.73921,thousand megawatthours
+2022,US,U.S. Total,99,All Sectors,NUC,nuclear,771537.17649,thousand megawatthours
+2022,US,U.S. Total,99,All Sectors,SUN,solar,143791.88787,thousand megawatthours
+2022,US,U.S. Total,99,All Sectors,WND,wind,434297.35817,thousand megawatthours
+2023,US,U.S. Total,99,All Sectors,COW,all coal products,675115.27729,thousand megawatthours
+2023,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,245002.33842,thousand megawatthours
+2023,US,U.S. Total,99,All Sectors,NG,natural gas,1806062.91148,thousand megawatthours
+2023,US,U.S. Total,99,All Sectors,NUC,nuclear,774873.169,thousand megawatthours
+2023,US,U.S. Total,99,All Sectors,SUN,solar,165530.34861,thousand megawatthours
+2023,US,U.S. Total,99,All Sectors,WND,wind,421141.33522,thousand megawatthours
+2024,US,U.S. Total,99,All Sectors,COW,all coal products,652155.92065,thousand megawatthours
+2024,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,242896.05421,thousand megawatthours
+2024,US,U.S. Total,99,All Sectors,NG,natural gas,1869902.14628,thousand megawatthours
+2024,US,U.S. Total,99,All Sectors,NUC,nuclear,781865.31,thousand megawatthours
+2024,US,U.S. Total,99,All Sectors,SUN,solar,219833.913,thousand megawatthours
+2024,US,U.S. Total,99,All Sectors,WND,wind,451904.35659,thousand megawatthours
+2025,US,U.S. Total,99,All Sectors,COW,all coal products,737150.71107,thousand megawatthours
+2025,US,U.S. Total,99,All Sectors,HYC,conventional hydroelectric,247023.20955,thousand megawatthours
+2025,US,U.S. Total,99,All Sectors,NG,natural gas,1807338.28797,thousand megawatthours
+2025,US,U.S. Total,99,All Sectors,NUC,nuclear,784780.718,thousand megawatthours
+2025,US,U.S. Total,99,All Sectors,SUN,solar,295671.38248,thousand megawatthours
+2025,US,U.S. Total,99,All Sectors,WND,wind,464390.60973,thousand megawatthours
